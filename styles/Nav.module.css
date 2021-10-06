@@ -1,0 +1,17 @@
+.Lite {
+  background-color: #e41d36;
+}
+
+.cartbtn{
+  background-color: #fff !important;
+  color:#e41d36 !important;
+}
+.cartbtn:hover {
+  color: #fff !important;
+  background-color: #e41d36 !important;
+}
+.cartbadge{
+  pointer-events: none !important;
+  background-color: #fff !important;
+  color:#e41d36 !important;
+}

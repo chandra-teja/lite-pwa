@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Profile_pic" width="90" height="90" viewBox="0 0 90 90">
+    <defs>
+        <style>
+            .cls-2{fill:#777}.cls-3{fill:none}
+        </style>
+    </defs>
+    <g id="Ellipse_72" fill="#f8f8f8" stroke="#fff" stroke-width="2px">
+        <circle cx="45" cy="45" r="45" stroke="none"/>
+        <circle cx="45" cy="45" r="44" class="cls-3"/>
+    </g>
+    <path id="Subtraction_8" d="M35.726 34.342a45.208 45.208 0 0 1-10.567-1.248 44.762 44.762 0 0 1-9.671-3.549A45.427 45.427 0 0 1 0 16.707 44.96 44.96 0 0 1 15.488 4.544a46.39 46.39 0 0 1 9.671-3.363 47.838 47.838 0 0 1 21.135 0 46.381 46.381 0 0 1 9.671 3.363 44.988 44.988 0 0 1 15.488 12.162 45.428 45.428 0 0 1-15.489 12.838 44.759 44.759 0 0 1-9.671 3.55 45.21 45.21 0 0 1-10.567 1.248z" class="cls-2" transform="translate(9.274 55.658)"/>
+    <circle id="Ellipse_76" cx="17.763" cy="17.763" r="17.763" class="cls-2" transform="translate(27.237 16.579)"/>
+    <circle id="Ellipse_77" cx="45" cy="45" r="45" class="cls-3"/>
+</svg>
